@@ -1,7 +1,7 @@
 
 # Simulation Model Demonstrating Chart Plotting in Aivika
 
-This project demonstrates the chart plotting in the [Aivika](http://www.aivikasoft.com) simulation framework.
+This project demonstrates the chart plotting in the Aivika simulation framework.
 
 ![DeviationChart](https://github.com/dsorokin/aivika-experiment-chart-test/blob/master/images/DeviationChart.svg)
 
